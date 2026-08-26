@@ -12,3 +12,11 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
